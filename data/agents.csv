@@ -1,0 +1,12 @@
+id,name,kind,clientid,startedat,endedat,base,seatcost,active
+a1,Automated caller 01,ai,c1,2026-02-08,,0,480,true
+a2,Caller 01,human,c1,2026-05-14,,2025,0,true
+a3,Automated caller 02,ai,c2,2026-01-25,,0,480,true
+a4,Caller 02,human,c2,2026-01-28,,3104,0,true
+a5,Automated caller 03,ai,c3,2026-04-13,,0,480,true
+a6,Automated caller 04,ai,c4,2026-03-01,,0,480,true
+a7,Caller 03,human,c4,2026-08-25,,2102,0,true
+a8,Caller 04,human,c1,2026-01-28,2026-09-05,2285,0,false
+a9,Caller 05,human,c2,2026-06-26,2026-10-07,2088,0,false
+a10,Caller 06,human,c3,2026-03-25,2026-09-22,1971,0,false
+a11,Caller 07,human,c4,2026-02-24,2026-09-19,2538,0,false
