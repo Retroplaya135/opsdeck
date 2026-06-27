@@ -1,0 +1,9 @@
+.token
+var/users.json
+var/audit.jsonl
+var/inquiries.jsonl
+var/*.db
+var/*.db-wal
+var/*.db-shm
+*.pem
+*.key
