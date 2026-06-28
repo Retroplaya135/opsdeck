@@ -1,0 +1,641 @@
+id,name,clientid,stage,source,value,score,date
+l320,Lead 061,c4,contacted,Meta Ads,2117,44,2026-10-21
+l513,Lead 059,c2,qualified,Google LSA,1945,81,2026-10-21
+l369,Lead 035,c3,new,Google LSA,1593,22,2026-10-21
+l447,Lead 019,c2,new,Website form,409,9,2026-10-21
+l550,Lead 027,c1,showed,Google LSA,1517,90,2026-10-21
+l66,Lead 022,c3,contacted,Aged list,565,50,2026-10-20
+l629,Lead 018,c1,new,Meta Ads,1839,36,2026-10-20
+l516,Lead 058,c2,contacted,Referral,1531,27,2026-10-20
+l251,Lead 063,c2,contacted,Website form,641,27,2026-10-20
+l150,Lead 014,c4,booked,Google LSA,2237,88,2026-10-20
+l494,Lead 006,c3,qualified,SMS reactivation,1600,72,2026-10-20
+l91,Lead 034,c1,new,SMS reactivation,426,30,2026-10-20
+l122,Lead 008,c1,contacted,Meta Ads,975,64,2026-10-20
+l371,Lead 043,c3,qualified,Website form,1146,86,2026-10-20
+l572,Lead 032,c4,lost,Aged list,848,4,2026-10-20
+l565,Lead 026,c2,showed,Referral,1784,82,2026-10-20
+l59,Lead 033,c4,qualified,Website form,490,71,2026-10-19
+l497,Lead 062,c2,lost,Cold call,443,24,2026-10-19
+l243,Lead 052,c4,showed,SMS reactivation,951,98,2026-10-19
+l462,Lead 054,c3,closed,Meta Ads,1118,79,2026-10-19
+l548,Lead 006,c3,lost,Cold call,1019,9,2026-10-19
+l639,Lead 054,c1,lost,Meta Ads,528,26,2026-10-18
+l480,Lead 020,c3,new,Aged list,839,46,2026-10-18
+l489,Lead 059,c3,new,Cold call,1436,31,2026-10-18
+l160,Lead 036,c3,booked,SMS reactivation,550,65,2026-10-18
+l204,Lead 056,c2,closed,SMS reactivation,1224,98,2026-10-18
+l552,Lead 041,c4,qualified,Website form,2015,60,2026-10-18
+l205,Lead 047,c2,lost,Meta Ads,1551,13,2026-10-18
+l162,Lead 014,c2,lost,Cold call,1264,42,2026-10-18
+l180,Lead 060,c4,showed,Aged list,2231,97,2026-10-18
+l256,Lead 013,c1,closed,Website form,1476,82,2026-10-18
+l139,Lead 022,c1,showed,Referral,646,90,2026-10-17
+l117,Lead 030,c3,lost,Aged list,502,41,2026-10-17
+l532,Lead 030,c4,contacted,SMS reactivation,2153,47,2026-10-17
+l406,Lead 023,c3,closed,Website form,616,83,2026-10-17
+l372,Lead 004,c3,new,SMS reactivation,1107,16,2026-10-17
+l98,Lead 037,c1,showed,Referral,901,94,2026-10-17
+l330,Lead 058,c1,contacted,Referral,1699,50,2026-10-17
+l161,Lead 027,c1,contacted,Aged list,1315,22,2026-10-17
+l393,Lead 016,c3,lost,Website form,610,16,2026-10-16
+l589,Lead 030,c2,new,Aged list,1560,45,2026-10-16
+l41,Lead 056,c2,qualified,SMS reactivation,693,69,2026-10-16
+l295,Lead 053,c3,contacted,Website form,721,50,2026-10-16
+l426,Lead 020,c2,qualified,Cold call,1834,84,2026-10-15
+l441,Lead 042,c1,qualified,SMS reactivation,422,84,2026-10-15
+l449,Lead 057,c2,lost,Cold call,1077,22,2026-10-15
+l585,Lead 055,c1,contacted,Google LSA,354,71,2026-10-15
+l430,Lead 010,c3,new,Website form,1508,50,2026-10-15
+l223,Lead 019,c3,contacted,Referral,347,49,2026-10-15
+l525,Lead 015,c1,new,SMS reactivation,1030,27,2026-10-15
+l22,Lead 054,c1,showed,SMS reactivation,1442,79,2026-10-14
+l528,Lead 064,c1,contacted,Referral,696,28,2026-10-14
+l530,Lead 029,c2,lost,Website form,1345,4,2026-10-14
+l89,Lead 057,c4,new,Cold call,1720,19,2026-10-14
+l39,Lead 023,c2,booked,Website form,1644,93,2026-10-14
+l468,Lead 035,c1,qualified,Cold call,876,82,2026-10-14
+l419,Lead 052,c4,qualified,Referral,904,86,2026-10-14
+l596,Lead 037,c3,contacted,SMS reactivation,1407,68,2026-10-14
+l331,Lead 025,c1,qualified,Website form,1614,72,2026-10-14
+l509,Lead 029,c3,new,Cold call,1077,16,2026-10-14
+l567,Lead 026,c3,showed,Cold call,1028,79,2026-10-13
+l165,Lead 016,c2,showed,Aged list,592,87,2026-10-13
+l219,Lead 017,c4,booked,Meta Ads,1288,85,2026-10-13
+l586,Lead 009,c1,qualified,Google LSA,1722,60,2026-10-13
+l209,Lead 052,c1,new,Meta Ads,862,51,2026-10-13
+l303,Lead 055,c3,qualified,Referral,1247,89,2026-10-13
+l636,Lead 058,c2,lost,Website form,442,10,2026-10-12
+l258,Lead 056,c3,new,Google LSA,382,25,2026-10-12
+l30,Lead 001,c3,contacted,Aged list,1264,61,2026-10-12
+l90,Lead 002,c1,booked,Aged list,1049,95,2026-10-12
+l281,Lead 028,c3,closed,Referral,869,96,2026-10-12
+l43,Lead 027,c1,qualified,SMS reactivation,1225,91,2026-10-12
+l15,Lead 042,c3,contacted,Referral,1099,71,2026-10-12
+l373,Lead 014,c3,new,Website form,1209,35,2026-10-12
+l52,Lead 057,c4,new,Website form,584,34,2026-10-12
+l621,Lead 041,c2,new,Aged list,1528,52,2026-10-12
+l519,Lead 028,c2,qualified,Cold call,1253,65,2026-10-12
+l334,Lead 011,c3,contacted,Google LSA,1012,58,2026-10-11
+l469,Lead 048,c4,new,Cold call,2081,18,2026-10-11
+l496,Lead 041,c2,booked,Cold call,1413,74,2026-10-11
+l197,Lead 019,c2,showed,Cold call,825,79,2026-10-11
+l207,Lead 040,c1,qualified,Meta Ads,464,75,2026-10-11
+l18,Lead 015,c2,booked,Referral,1233,67,2026-10-11
+l531,Lead 056,c3,qualified,Referral,1562,76,2026-10-11
+l603,Lead 037,c4,booked,Aged list,1904,71,2026-10-11
+l82,Lead 046,c4,contacted,Google LSA,1219,25,2026-10-11
+l415,Lead 002,c4,new,Cold call,1635,37,2026-10-10
+l87,Lead 014,c1,new,Referral,1221,53,2026-10-10
+l584,Lead 027,c1,qualified,Referral,1455,92,2026-10-10
+l340,Lead 005,c3,contacted,Meta Ads,1363,40,2026-10-10
+l568,Lead 051,c2,lost,Aged list,1745,4,2026-10-10
+l99,Lead 011,c1,lost,SMS reactivation,1432,21,2026-10-10
+l417,Lead 040,c4,new,Meta Ads,1441,31,2026-10-10
+l518,Lead 054,c4,contacted,Aged list,1515,27,2026-10-10
+l347,Lead 008,c2,lost,SMS reactivation,2044,40,2026-10-10
+l436,Lead 010,c4,contacted,Google LSA,1151,24,2026-10-09
+l587,Lead 034,c4,new,Referral,508,49,2026-10-09
+l171,Lead 059,c2,contacted,Google LSA,920,61,2026-10-09
+l50,Lead 034,c2,new,SMS reactivation,593,13,2026-10-09
+l578,Lead 003,c3,new,Meta Ads,1249,28,2026-10-09
+l595,Lead 049,c3,new,Aged list,603,32,2026-10-09
+l236,Lead 002,c1,closed,Aged list,1530,83,2026-10-09
+l104,Lead 059,c1,lost,Cold call,1757,44,2026-10-09
+l588,Lead 009,c2,booked,Cold call,570,70,2026-10-09
+l633,Lead 058,c3,new,Meta Ads,1652,17,2026-10-09
+l130,Lead 015,c2,new,Referral,1750,42,2026-10-09
+l297,Lead 017,c4,closed,Website form,453,87,2026-10-09
+l362,Lead 009,c4,new,SMS reactivation,583,56,2026-10-08
+l536,Lead 044,c3,qualified,Meta Ads,1232,66,2026-10-08
+l451,Lead 056,c2,contacted,Meta Ads,547,58,2026-10-08
+l400,Lead 021,c1,qualified,Aged list,1017,79,2026-10-08
+l388,Lead 011,c1,showed,Website form,1003,90,2026-10-08
+l500,Lead 045,c3,lost,Meta Ads,1147,44,2026-10-08
+l463,Lead 051,c1,qualified,Google LSA,1656,80,2026-10-08
+l120,Lead 048,c2,new,Google LSA,458,53,2026-10-08
+l485,Lead 004,c2,new,Website form,1424,28,2026-10-08
+l262,Lead 007,c2,lost,SMS reactivation,564,35,2026-10-08
+l570,Lead 044,c4,new,Aged list,449,23,2026-10-07
+l193,Lead 010,c3,contacted,Aged list,407,35,2026-10-07
+l73,Lead 009,c2,new,Meta Ads,1329,21,2026-10-07
+l190,Lead 038,c1,lost,SMS reactivation,1839,41,2026-10-07
+l95,Lead 021,c1,lost,Google LSA,1300,7,2026-10-07
+l140,Lead 016,c3,lost,Google LSA,483,33,2026-10-07
+l8,Lead 047,c2,contacted,Google LSA,1085,34,2026-10-07
+l170,Lead 011,c2,lost,SMS reactivation,1399,9,2026-10-07
+l230,Lead 024,c2,qualified,Meta Ads,581,59,2026-10-07
+l424,Lead 007,c3,new,Cold call,832,27,2026-10-07
+l278,Lead 041,c2,new,Aged list,1733,42,2026-10-06
+l460,Lead 006,c2,new,Aged list,776,50,2026-10-06
+l325,Lead 017,c3,new,SMS reactivation,1383,39,2026-10-06
+l58,Lead 014,c4,new,Google LSA,683,23,2026-10-06
+l127,Lead 042,c2,lost,Website form,759,25,2026-10-06
+l283,Lead 008,c4,booked,SMS reactivation,1140,83,2026-10-06
+l370,Lead 052,c3,contacted,Aged list,1346,48,2026-10-06
+l612,Lead 030,c3,new,Google LSA,584,27,2026-10-06
+l214,Lead 026,c3,closed,Referral,1332,87,2026-10-05
+l264,Lead 023,c1,contacted,Website form,683,67,2026-10-05
+l147,Lead 023,c4,new,Aged list,429,20,2026-10-05
+l535,Lead 042,c2,new,SMS reactivation,1855,12,2026-10-05
+l175,Lead 001,c3,qualified,Google LSA,384,65,2026-10-05
+l349,Lead 053,c4,qualified,SMS reactivation,824,83,2026-10-05
+l379,Lead 048,c4,qualified,Google LSA,1597,73,2026-10-05
+l301,Lead 059,c2,lost,Website form,1352,46,2026-10-04
+l524,Lead 022,c2,contacted,Google LSA,1709,22,2026-10-04
+l546,Lead 058,c3,new,SMS reactivation,1027,52,2026-10-04
+l20,Lead 002,c1,showed,Cold call,648,81,2026-10-04
+l450,Lead 059,c3,new,Google LSA,631,23,2026-10-04
+l74,Lead 044,c1,closed,Google LSA,738,93,2026-10-04
+l183,Lead 055,c1,new,Aged list,373,32,2026-10-04
+l247,Lead 053,c4,qualified,Cold call,1517,76,2026-10-04
+l594,Lead 055,c2,booked,Referral,1844,81,2026-10-04
+l332,Lead 031,c1,closed,Google LSA,1150,84,2026-10-04
+l453,Lead 014,c2,booked,SMS reactivation,1896,78,2026-10-04
+l343,Lead 022,c4,new,Referral,1532,23,2026-10-04
+l148,Lead 004,c4,qualified,Meta Ads,1618,94,2026-10-03
+l502,Lead 002,c1,booked,Cold call,1420,98,2026-10-03
+l106,Lead 056,c1,contacted,Meta Ads,1343,30,2026-10-03
+l153,Lead 040,c4,new,Website form,2052,33,2026-10-02
+l202,Lead 018,c2,new,Website form,1121,16,2026-10-02
+l495,Lead 003,c1,booked,Website form,1744,81,2026-10-02
+l623,Lead 020,c2,contacted,Cold call,1596,61,2026-10-02
+l408,Lead 050,c4,lost,SMS reactivation,1813,35,2026-10-02
+l476,Lead 050,c4,new,Meta Ads,2246,8,2026-10-02
+l617,Lead 039,c2,closed,SMS reactivation,1118,90,2026-10-02
+l455,Lead 059,c1,showed,Aged list,849,90,2026-10-02
+l151,Lead 003,c3,showed,Referral,415,93,2026-10-02
+l454,Lead 001,c2,qualified,Google LSA,593,60,2026-10-02
+l505,Lead 039,c1,closed,Aged list,1498,93,2026-10-01
+l246,Lead 010,c4,contacted,Referral,2084,63,2026-10-01
+l613,Lead 061,c1,qualified,SMS reactivation,1785,58,2026-10-01
+l512,Lead 003,c1,contacted,Referral,419,23,2026-10-01
+l31,Lead 003,c3,contacted,SMS reactivation,1439,45,2026-10-01
+l429,Lead 020,c3,closed,Google LSA,492,97,2026-10-01
+l206,Lead 016,c2,qualified,Website form,1095,66,2026-10-01
+l201,Lead 037,c1,new,Google LSA,1644,31,2026-10-01
+l141,Lead 063,c1,new,Website form,820,40,2026-09-30
+l233,Lead 009,c3,lost,Referral,618,16,2026-09-30
+l11,Lead 022,c3,contacted,SMS reactivation,1156,59,2026-09-30
+l273,Lead 032,c2,contacted,Meta Ads,1895,41,2026-09-30
+l329,Lead 056,c1,lost,Meta Ads,705,20,2026-09-30
+l433,Lead 018,c1,booked,Meta Ads,602,69,2026-09-30
+l580,Lead 061,c4,new,Website form,1587,35,2026-09-30
+l266,Lead 012,c2,showed,Referral,1265,71,2026-09-30
+l420,Lead 040,c1,new,SMS reactivation,1200,28,2026-09-30
+l624,Lead 009,c1,showed,SMS reactivation,1558,80,2026-09-30
+l620,Lead 001,c2,qualified,Meta Ads,1054,59,2026-09-30
+l172,Lead 058,c3,new,Meta Ads,1451,22,2026-09-30
+l559,Lead 020,c1,qualified,Referral,578,88,2026-09-29
+l3,Lead 061,c2,qualified,Aged list,617,60,2026-09-29
+l610,Lead 032,c3,new,SMS reactivation,1068,57,2026-09-29
+l142,Lead 019,c3,contacted,Website form,733,58,2026-09-29
+l380,Lead 036,c1,contacted,Google LSA,1016,59,2026-09-29
+l27,Lead 040,c1,qualified,Aged list,457,69,2026-09-29
+l561,Lead 035,c1,qualified,Aged list,1611,73,2026-09-29
+l257,Lead 030,c2,lost,SMS reactivation,1343,40,2026-09-29
+l44,Lead 064,c2,showed,Cold call,848,82,2026-09-29
+l242,Lead 028,c3,qualified,Cold call,1012,70,2026-09-28
+l100,Lead 022,c3,showed,Referral,532,94,2026-09-28
+l185,Lead 016,c2,new,Website form,622,38,2026-09-28
+l601,Lead 008,c1,new,Meta Ads,828,16,2026-09-28
+l628,Lead 010,c1,new,Aged list,1838,9,2026-09-28
+l482,Lead 058,c3,contacted,SMS reactivation,741,33,2026-09-28
+l145,Lead 023,c3,contacted,Google LSA,1332,69,2026-09-28
+l405,Lead 039,c4,booked,Website form,979,67,2026-09-28
+l533,Lead 040,c4,new,Google LSA,1561,58,2026-09-27
+l300,Lead 060,c3,new,Google LSA,694,50,2026-09-27
+l575,Lead 044,c2,new,Website form,618,16,2026-09-27
+l292,Lead 016,c4,lost,SMS reactivation,1540,31,2026-09-27
+l178,Lead 064,c2,showed,Referral,1873,80,2026-09-27
+l593,Lead 063,c3,lost,Google LSA,1212,35,2026-09-27
+l270,Lead 014,c2,lost,SMS reactivation,843,15,2026-09-27
+l210,Lead 018,c3,contacted,Website form,1506,31,2026-09-26
+l174,Lead 028,c2,qualified,Aged list,476,81,2026-09-26
+l199,Lead 025,c2,lost,Meta Ads,1325,19,2026-09-26
+l522,Lead 003,c3,booked,Referral,973,74,2026-09-26
+l133,Lead 005,c1,new,Cold call,1254,55,2026-09-26
+l391,Lead 013,c2,contacted,Referral,762,51,2026-09-26
+l591,Lead 052,c2,qualified,Cold call,1430,87,2026-09-25
+l564,Lead 053,c3,lost,Cold call,1294,14,2026-09-25
+l269,Lead 028,c4,new,Google LSA,438,28,2026-09-25
+l232,Lead 063,c3,qualified,Google LSA,431,59,2026-09-25
+l558,Lead 060,c3,new,Meta Ads,1559,27,2026-09-25
+l279,Lead 035,c3,new,Referral,666,45,2026-09-25
+l88,Lead 023,c3,new,SMS reactivation,622,32,2026-09-25
+l259,Lead 060,c4,contacted,Referral,1310,40,2026-09-25
+l608,Lead 046,c4,qualified,Website form,982,84,2026-09-24
+l222,Lead 057,c4,new,SMS reactivation,1900,34,2026-09-24
+l506,Lead 002,c3,qualified,SMS reactivation,1487,94,2026-09-24
+l541,Lead 008,c1,showed,Google LSA,464,95,2026-09-24
+l381,Lead 045,c3,lost,SMS reactivation,1609,42,2026-09-24
+l339,Lead 062,c2,new,Google LSA,1279,43,2026-09-24
+l437,Lead 043,c2,contacted,Google LSA,733,54,2026-09-24
+l544,Lead 058,c4,new,Google LSA,630,19,2026-09-24
+l177,Lead 054,c2,showed,Cold call,697,76,2026-09-24
+l57,Lead 024,c3,qualified,Meta Ads,1423,88,2026-09-24
+l237,Lead 064,c4,lost,Website form,1547,41,2026-09-23
+l492,Lead 007,c2,contacted,Cold call,888,35,2026-09-23
+l169,Lead 063,c3,contacted,Aged list,1081,41,2026-09-23
+l554,Lead 045,c1,new,Referral,1082,18,2026-09-23
+l439,Lead 038,c1,new,Referral,1503,50,2026-09-23
+l9,Lead 025,c2,qualified,Cold call,599,73,2026-09-23
+l67,Lead 044,c4,showed,Website form,1830,77,2026-09-23
+l478,Lead 003,c3,booked,SMS reactivation,369,88,2026-09-23
+l407,Lead 027,c4,showed,Cold call,1866,82,2026-09-22
+l196,Lead 044,c3,showed,Cold call,1590,99,2026-09-22
+l239,Lead 031,c2,booked,Cold call,389,97,2026-09-22
+l17,Lead 021,c3,contacted,SMS reactivation,1004,60,2026-09-22
+l355,Lead 032,c2,qualified,SMS reactivation,1979,88,2026-09-22
+l276,Lead 027,c3,contacted,Google LSA,1287,70,2026-09-22
+l392,Lead 064,c3,lost,Cold call,1466,21,2026-09-22
+l459,Lead 060,c2,new,SMS reactivation,1505,33,2026-09-22
+l138,Lead 050,c4,qualified,Aged list,560,87,2026-09-21
+l534,Lead 007,c3,contacted,Referral,1663,23,2026-09-21
+l268,Lead 024,c4,qualified,Meta Ads,1080,80,2026-09-21
+l328,Lead 048,c4,contacted,Cold call,1975,49,2026-09-21
+l226,Lead 043,c4,qualified,Meta Ads,1501,73,2026-09-21
+l361,Lead 064,c4,new,Google LSA,976,24,2026-09-21
+l401,Lead 042,c3,qualified,Cold call,377,76,2026-09-21
+l10,Lead 037,c2,new,Referral,829,8,2026-09-21
+l136,Lead 025,c1,closed,Website form,1410,81,2026-09-21
+l357,Lead 055,c2,contacted,Website form,1182,41,2026-09-21
+l520,Lead 016,c1,lost,Aged list,581,13,2026-09-21
+l304,Lead 064,c1,showed,Referral,1311,97,2026-09-21
+l410,Lead 062,c2,new,Aged list,1930,18,2026-09-21
+l291,Lead 054,c1,booked,Cold call,851,67,2026-09-20
+l551,Lead 028,c4,closed,Website form,1082,94,2026-09-20
+l38,Lead 030,c1,lost,Google LSA,796,17,2026-09-20
+l271,Lead 009,c2,new,Website form,730,27,2026-09-20
+l34,Lead 058,c4,new,Google LSA,1096,36,2026-09-20
+l326,Lead 010,c4,new,SMS reactivation,1501,34,2026-09-20
+l571,Lead 025,c3,booked,Cold call,1146,64,2026-09-20
+l263,Lead 017,c4,booked,SMS reactivation,2128,87,2026-09-19
+l187,Lead 002,c4,showed,Cold call,1485,98,2026-09-19
+l606,Lead 006,c2,new,Referral,668,11,2026-09-19
+l314,Lead 002,c1,qualified,Cold call,1490,75,2026-09-19
+l576,Lead 031,c3,new,Google LSA,716,30,2026-09-19
+l384,Lead 023,c1,closed,SMS reactivation,1279,95,2026-09-19
+l168,Lead 023,c2,new,Aged list,1290,19,2026-09-19
+l626,Lead 050,c2,qualified,SMS reactivation,2040,64,2026-09-18
+l438,Lead 035,c4,qualified,Referral,1907,75,2026-09-18
+l471,Lead 036,c4,showed,Cold call,1342,96,2026-09-18
+l60,Lead 001,c1,contacted,Meta Ads,350,33,2026-09-18
+l543,Lead 064,c3,closed,Website form,1551,86,2026-09-18
+l418,Lead 041,c1,closed,Google LSA,1799,98,2026-09-18
+l333,Lead 048,c3,new,SMS reactivation,676,52,2026-09-18
+l192,Lead 010,c2,lost,Aged list,1616,27,2026-09-18
+l376,Lead 028,c2,new,Referral,1070,47,2026-09-18
+l37,Lead 002,c4,new,Google LSA,1668,29,2026-09-18
+l78,Lead 064,c2,new,Cold call,1740,31,2026-09-17
+l284,Lead 031,c1,new,Google LSA,1259,44,2026-09-17
+l486,Lead 055,c2,booked,Aged list,1501,97,2026-09-17
+l529,Lead 037,c1,qualified,Meta Ads,697,58,2026-09-17
+l16,Lead 043,c2,contacted,Cold call,1579,64,2026-09-17
+l382,Lead 057,c1,lost,SMS reactivation,1257,6,2026-09-17
+l511,Lead 041,c4,new,Meta Ads,1524,41,2026-09-17
+l85,Lead 064,c1,showed,Website form,1162,93,2026-09-17
+l227,Lead 040,c1,contacted,Aged list,1102,44,2026-09-17
+l280,Lead 038,c1,new,Google LSA,1639,30,2026-09-17
+l597,Lead 036,c3,contacted,SMS reactivation,676,54,2026-09-17
+l557,Lead 005,c3,new,Cold call,727,43,2026-09-16
+l403,Lead 034,c3,booked,Cold call,548,67,2026-09-16
+l305,Lead 010,c4,qualified,SMS reactivation,1695,75,2026-09-16
+l53,Lead 010,c2,qualified,Cold call,1168,95,2026-09-16
+l75,Lead 049,c2,contacted,Website form,1831,61,2026-09-16
+l212,Lead 034,c2,contacted,Aged list,484,44,2026-09-16
+l421,Lead 001,c1,qualified,Website form,1848,84,2026-09-16
+l309,Lead 001,c2,contacted,Referral,650,66,2026-09-16
+l545,Lead 005,c3,contacted,SMS reactivation,900,46,2026-09-15
+l547,Lead 034,c4,new,Google LSA,1510,26,2026-09-15
+l467,Lead 006,c2,qualified,Referral,556,64,2026-09-15
+l131,Lead 027,c3,closed,Cold call,724,81,2026-09-15
+l277,Lead 042,c3,contacted,Referral,585,62,2026-09-14
+l605,Lead 031,c1,new,Meta Ads,466,28,2026-09-14
+l124,Lead 051,c2,new,Website form,1252,27,2026-09-14
+l526,Lead 003,c2,closed,Meta Ads,779,95,2026-09-14
+l70,Lead 007,c1,contacted,SMS reactivation,1531,68,2026-09-14
+l103,Lead 043,c1,new,Aged list,1261,14,2026-09-14
+l358,Lead 003,c4,new,Cold call,704,23,2026-09-13
+l200,Lead 058,c2,new,Aged list,676,45,2026-09-13
+l26,Lead 062,c3,qualified,Aged list,1220,89,2026-09-13
+l143,Lead 023,c1,qualified,Meta Ads,948,95,2026-09-13
+l335,Lead 049,c4,new,Website form,1797,10,2026-09-13
+l499,Lead 054,c4,qualified,Cold call,2073,59,2026-09-13
+l590,Lead 064,c4,contacted,Meta Ads,1075,64,2026-09-13
+l377,Lead 030,c4,lost,Referral,990,8,2026-09-13
+l293,Lead 026,c2,lost,Meta Ads,1571,12,2026-09-13
+l65,Lead 063,c3,new,SMS reactivation,1038,29,2026-09-12
+l235,Lead 032,c4,qualified,Google LSA,2094,89,2026-09-12
+l479,Lead 053,c2,new,SMS reactivation,508,10,2026-09-12
+l344,Lead 019,c1,lost,SMS reactivation,995,39,2026-09-12
+l244,Lead 017,c2,qualified,SMS reactivation,501,86,2026-09-12
+l182,Lead 052,c3,qualified,Cold call,487,95,2026-09-12
+l351,Lead 036,c2,showed,Meta Ads,1641,81,2026-09-12
+l622,Lead 018,c4,qualified,Referral,1736,65,2026-09-12
+l23,Lead 064,c4,qualified,Website form,1921,80,2026-09-12
+l638,Lead 059,c1,new,Google LSA,1032,10,2026-09-12
+l119,Lead 049,c3,booked,Website form,553,93,2026-09-12
+l553,Lead 003,c4,qualified,Referral,1294,62,2026-09-12
+l35,Lead 019,c2,contacted,SMS reactivation,1893,36,2026-09-12
+l275,Lead 064,c3,lost,Google LSA,822,9,2026-09-11
+l422,Lead 051,c2,contacted,Meta Ads,1181,70,2026-09-11
+l93,Lead 018,c2,lost,Referral,1986,36,2026-09-11
+l350,Lead 061,c1,new,Cold call,1037,54,2026-09-11
+l457,Lead 038,c2,new,Meta Ads,1684,45,2026-09-11
+l49,Lead 037,c3,new,Meta Ads,340,31,2026-09-11
+l397,Lead 023,c1,closed,Website form,1428,88,2026-09-11
+l195,Lead 040,c1,contacted,Referral,728,43,2026-09-11
+l54,Lead 058,c1,booked,Referral,468,76,2026-09-10
+l616,Lead 004,c2,contacted,Google LSA,1561,48,2026-09-10
+l4,Lead 007,c2,qualified,SMS reactivation,505,84,2026-09-10
+l224,Lead 022,c3,booked,Aged list,669,66,2026-09-10
+l324,Lead 014,c1,contacted,SMS reactivation,395,35,2026-09-10
+l79,Lead 053,c4,lost,Meta Ads,924,38,2026-09-10
+l386,Lead 020,c4,new,SMS reactivation,427,39,2026-09-10
+l189,Lead 008,c4,contacted,Website form,795,55,2026-09-10
+l399,Lead 039,c2,new,Referral,1821,10,2026-09-10
+l627,Lead 022,c4,new,SMS reactivation,1264,53,2026-09-09
+l157,Lead 045,c4,new,Referral,1974,8,2026-09-09
+l555,Lead 046,c4,new,Aged list,1974,21,2026-09-09
+l466,Lead 032,c4,qualified,Referral,1030,73,2026-09-09
+l126,Lead 048,c1,qualified,Google LSA,912,78,2026-09-09
+l51,Lead 031,c4,new,Aged list,2107,26,2026-09-09
+l83,Lead 019,c3,lost,Cold call,847,25,2026-09-09
+l470,Lead 042,c1,lost,Referral,1387,29,2026-09-09
+l25,Lead 013,c4,contacted,Google LSA,1450,40,2026-09-09
+l440,Lead 018,c3,showed,Cold call,1008,75,2026-09-09
+l508,Lead 039,c3,new,Referral,1349,57,2026-09-09
+l121,Lead 060,c1,closed,Referral,748,82,2026-09-09
+l96,Lead 039,c3,new,Meta Ads,1333,31,2026-09-09
+l105,Lead 048,c1,qualified,Aged list,680,88,2026-09-09
+l32,Lead 043,c2,contacted,Aged list,1229,36,2026-09-08
+l367,Lead 015,c2,showed,Meta Ads,1828,98,2026-09-08
+l491,Lead 062,c3,contacted,Meta Ads,873,24,2026-09-08
+l194,Lead 011,c3,booked,Website form,1623,97,2026-09-08
+l188,Lead 056,c4,showed,Referral,2179,85,2026-09-08
+l63,Lead 061,c3,closed,Referral,1217,80,2026-09-08
+l179,Lead 018,c2,qualified,SMS reactivation,1930,72,2026-09-08
+l308,Lead 031,c3,qualified,Cold call,1341,81,2026-09-08
+l238,Lead 006,c2,contacted,Referral,961,44,2026-09-08
+l24,Lead 012,c2,qualified,Aged list,443,67,2026-09-08
+l598,Lead 017,c1,lost,Referral,1006,46,2026-09-08
+l114,Lead 028,c3,lost,SMS reactivation,720,24,2026-09-07
+l523,Lead 048,c2,contacted,Google LSA,1540,30,2026-09-07
+l107,Lead 013,c3,new,Meta Ads,517,42,2026-09-07
+l154,Lead 037,c4,contacted,Meta Ads,515,44,2026-09-07
+l448,Lead 018,c3,contacted,SMS reactivation,1399,58,2026-09-07
+l614,Lead 031,c2,contacted,SMS reactivation,784,48,2026-09-07
+l282,Lead 061,c1,qualified,Referral,1813,91,2026-09-07
+l346,Lead 021,c3,qualified,Referral,1278,88,2026-09-07
+l423,Lead 062,c4,contacted,SMS reactivation,489,70,2026-09-07
+l387,Lead 004,c1,booked,Referral,979,97,2026-09-07
+l563,Lead 019,c3,lost,Aged list,1251,32,2026-09-07
+l5,Lead 045,c3,closed,SMS reactivation,1206,93,2026-09-06
+l211,Lead 014,c1,new,Cold call,1822,14,2026-09-06
+l319,Lead 044,c2,contacted,Google LSA,1733,43,2026-09-06
+l234,Lead 054,c2,closed,Cold call,1124,83,2026-09-06
+l473,Lead 056,c1,contacted,Google LSA,1597,29,2026-09-06
+l413,Lead 043,c1,showed,Referral,1637,91,2026-09-06
+l186,Lead 034,c2,showed,Meta Ads,1017,84,2026-09-06
+l125,Lead 018,c1,showed,SMS reactivation,1573,81,2026-09-05
+l416,Lead 045,c4,contacted,Website form,2174,29,2026-09-05
+l118,Lead 042,c2,booked,Cold call,1879,81,2026-09-05
+l250,Lead 013,c3,showed,Cold call,1630,83,2026-09-05
+l272,Lead 047,c3,new,Aged list,893,37,2026-09-05
+l311,Lead 006,c4,new,Aged list,546,9,2026-09-05
+l337,Lead 017,c2,contacted,Meta Ads,1940,60,2026-09-05
+l109,Lead 001,c4,qualified,Meta Ads,1499,80,2026-09-05
+l108,Lead 031,c4,booked,Meta Ads,746,83,2026-09-05
+l111,Lead 016,c4,contacted,Cold call,1944,35,2026-09-05
+l353,Lead 032,c3,contacted,Referral,373,23,2026-09-05
+l599,Lead 035,c4,showed,Referral,1340,92,2026-09-05
+l285,Lead 050,c4,qualified,Website form,1806,81,2026-09-05
+l62,Lead 035,c2,lost,Google LSA,1449,21,2026-09-04
+l323,Lead 043,c1,new,Aged list,1242,56,2026-09-04
+l609,Lead 056,c2,booked,SMS reactivation,1235,77,2026-09-04
+l310,Lead 062,c2,new,Meta Ads,1521,36,2026-09-04
+l363,Lead 055,c2,qualified,Cold call,1051,85,2026-09-04
+l527,Lead 031,c1,contacted,SMS reactivation,1156,25,2026-09-04
+l306,Lead 017,c1,new,SMS reactivation,822,26,2026-09-04
+l432,Lead 026,c1,qualified,Cold call,1170,94,2026-09-03
+l267,Lead 019,c4,lost,Meta Ads,1878,39,2026-09-03
+l503,Lead 062,c2,lost,Google LSA,1693,33,2026-09-03
+l446,Lead 024,c1,booked,Google LSA,1780,85,2026-09-03
+l29,Lead 030,c1,showed,Meta Ads,567,99,2026-09-03
+l137,Lead 004,c4,lost,SMS reactivation,1920,46,2026-09-03
+l431,Lead 013,c1,closed,SMS reactivation,1816,98,2026-09-03
+l253,Lead 039,c1,contacted,SMS reactivation,725,27,2026-09-03
+l47,Lead 051,c3,contacted,Cold call,1569,41,2026-09-03
+l86,Lead 033,c4,new,SMS reactivation,2144,49,2026-09-03
+l378,Lead 007,c3,lost,Referral,597,4,2026-09-02
+l290,Lead 064,c2,lost,Aged list,477,11,2026-09-02
+l61,Lead 009,c4,qualified,Website form,828,88,2026-09-02
+l434,Lead 064,c2,booked,Cold call,1325,84,2026-09-02
+l341,Lead 023,c1,new,Meta Ads,355,40,2026-09-01
+l215,Lead 011,c4,showed,Referral,846,86,2026-09-01
+l240,Lead 019,c4,showed,SMS reactivation,976,73,2026-09-01
+l158,Lead 047,c3,booked,Google LSA,677,83,2026-09-01
+l356,Lead 020,c3,new,Google LSA,863,27,2026-09-01
+l56,Lead 053,c2,showed,Meta Ads,1300,99,2026-09-01
+l2,Lead 044,c1,new,Cold call,801,22,2026-09-01
+l225,Lead 017,c1,qualified,SMS reactivation,1804,96,2026-09-01
+l517,Lead 061,c2,booked,Aged list,1869,75,2026-09-01
+l389,Lead 007,c2,contacted,Meta Ads,756,68,2026-09-01
+l208,Lead 032,c2,contacted,Website form,1330,35,2026-09-01
+l348,Lead 014,c3,lost,Cold call,1412,19,2026-08-31
+l33,Lead 006,c3,showed,Meta Ads,1453,97,2026-08-31
+l123,Lead 041,c1,new,Website form,1008,16,2026-08-31
+l602,Lead 027,c4,new,Google LSA,766,56,2026-08-31
+l213,Lead 029,c3,new,Cold call,923,18,2026-08-31
+l504,Lead 049,c1,lost,Google LSA,1839,36,2026-08-31
+l298,Lead 042,c2,new,Referral,1817,52,2026-08-31
+l579,Lead 045,c4,booked,Aged list,2113,96,2026-08-30
+l307,Lead 037,c1,new,Aged list,1352,44,2026-08-30
+l375,Lead 020,c1,lost,Meta Ads,777,12,2026-08-30
+l129,Lead 055,c3,contacted,Aged list,995,39,2026-08-30
+l72,Lead 008,c3,qualified,Aged list,825,94,2026-08-30
+l248,Lead 010,c2,lost,Referral,545,23,2026-08-30
+l249,Lead 041,c4,closed,Aged list,1462,91,2026-08-30
+l135,Lead 060,c1,contacted,Aged list,594,68,2026-08-30
+l435,Lead 043,c1,qualified,Cold call,960,84,2026-08-30
+l442,Lead 038,c3,qualified,Cold call,878,83,2026-08-30
+l542,Lead 025,c3,new,Meta Ads,1144,11,2026-08-30
+l461,Lead 030,c1,showed,Google LSA,1388,97,2026-08-30
+l631,Lead 003,c4,new,Aged list,980,43,2026-08-30
+l92,Lead 051,c1,lost,Cold call,1546,22,2026-08-30
+l316,Lead 039,c2,contacted,Aged list,1173,47,2026-08-30
+l634,Lead 064,c3,new,Referral,1402,15,2026-08-29
+l490,Lead 031,c4,qualified,Referral,1714,77,2026-08-29
+l477,Lead 021,c1,showed,Aged list,877,78,2026-08-29
+l163,Lead 024,c2,qualified,Meta Ads,1300,59,2026-08-29
+l338,Lead 062,c3,booked,Website form,903,84,2026-08-29
+l152,Lead 010,c1,new,Website form,1124,40,2026-08-29
+l475,Lead 060,c3,new,Google LSA,556,23,2026-08-29
+l12,Lead 014,c4,qualified,Google LSA,1440,91,2026-08-29
+l445,Lead 019,c1,new,Google LSA,1630,39,2026-08-28
+l472,Lead 040,c3,qualified,Google LSA,888,62,2026-08-28
+l287,Lead 039,c1,booked,Aged list,1109,87,2026-08-28
+l507,Lead 062,c4,new,Cold call,780,53,2026-08-28
+l615,Lead 019,c4,qualified,Website form,1404,61,2026-08-28
+l409,Lead 037,c4,new,SMS reactivation,1181,16,2026-08-28
+l365,Lead 042,c4,qualified,Referral,832,79,2026-08-28
+l164,Lead 012,c4,qualified,Website form,437,83,2026-08-28
+l493,Lead 061,c1,new,Meta Ads,352,16,2026-08-28
+l146,Lead 014,c3,booked,SMS reactivation,331,80,2026-08-28
+l404,Lead 054,c4,new,Website form,2091,12,2026-08-28
+l48,Lead 020,c1,contacted,SMS reactivation,1562,47,2026-08-28
+l313,Lead 007,c2,new,Referral,551,46,2026-08-28
+l411,Lead 050,c3,new,Cold call,923,23,2026-08-27
+l632,Lead 063,c3,lost,Aged list,485,17,2026-08-27
+l173,Lead 051,c2,showed,Aged list,753,91,2026-08-27
+l556,Lead 021,c4,contacted,SMS reactivation,1335,27,2026-08-27
+l402,Lead 064,c2,showed,Google LSA,455,91,2026-08-27
+l97,Lead 039,c4,lost,Meta Ads,1046,20,2026-08-27
+l46,Lead 005,c3,lost,Referral,603,17,2026-08-27
+l102,Lead 039,c2,contacted,Aged list,583,27,2026-08-27
+l573,Lead 012,c4,booked,Referral,671,95,2026-08-27
+l155,Lead 020,c4,showed,Referral,1265,96,2026-08-26
+l474,Lead 043,c1,contacted,Aged list,1247,62,2026-08-26
+l452,Lead 018,c1,lost,Meta Ads,1750,15,2026-08-26
+l94,Lead 015,c4,contacted,SMS reactivation,809,48,2026-08-26
+l156,Lead 060,c4,contacted,SMS reactivation,2267,57,2026-08-26
+l191,Lead 023,c2,lost,Cold call,1557,21,2026-08-26
+l159,Lead 024,c3,contacted,Referral,1138,38,2026-08-26
+l352,Lead 025,c3,qualified,Referral,1559,59,2026-08-26
+l427,Lead 035,c4,new,Cold call,1596,13,2026-08-25
+l134,Lead 048,c2,booked,SMS reactivation,528,73,2026-08-25
+l14,Lead 006,c1,qualified,SMS reactivation,1112,95,2026-08-25
+l481,Lead 048,c3,new,Cold call,1463,20,2026-08-25
+l395,Lead 009,c2,showed,Referral,1321,89,2026-08-25
+l444,Lead 027,c3,contacted,Cold call,438,27,2026-08-25
+l80,Lead 012,c4,qualified,Website form,1864,87,2026-08-25
+l28,Lead 019,c2,new,SMS reactivation,497,36,2026-08-24
+l221,Lead 032,c2,contacted,SMS reactivation,881,27,2026-08-24
+l115,Lead 049,c3,contacted,Cold call,1319,36,2026-08-24
+l342,Lead 019,c4,contacted,Website form,1064,60,2026-08-24
+l604,Lead 047,c3,lost,Aged list,727,11,2026-08-24
+l64,Lead 031,c1,qualified,Cold call,1057,73,2026-08-24
+l84,Lead 045,c3,closed,Website form,946,93,2026-08-24
+l515,Lead 032,c4,contacted,Website form,983,71,2026-08-24
+l198,Lead 048,c3,new,Cold call,1365,50,2026-08-23
+l619,Lead 058,c3,contacted,Meta Ads,1033,42,2026-08-23
+l40,Lead 052,c4,lost,Aged list,1941,45,2026-08-23
+l640,Lead 055,c3,booked,Referral,1515,69,2026-08-23
+l116,Lead 020,c3,booked,Meta Ads,663,88,2026-08-23
+l374,Lead 011,c2,new,Cold call,1581,35,2026-08-23
+l383,Lead 043,c4,showed,Referral,2208,94,2026-08-23
+l228,Lead 027,c3,lost,Website form,1546,34,2026-08-23
+l68,Lead 064,c1,lost,SMS reactivation,1372,38,2026-08-23
+l76,Lead 010,c2,lost,Google LSA,395,5,2026-08-23
+l582,Lead 029,c2,qualified,SMS reactivation,1722,61,2026-08-23
+l101,Lead 024,c2,new,Website form,579,58,2026-08-22
+l514,Lead 003,c2,qualified,SMS reactivation,1836,71,2026-08-22
+l241,Lead 033,c4,qualified,Meta Ads,472,76,2026-08-22
+l166,Lead 035,c1,booked,Aged list,728,68,2026-08-22
+l261,Lead 048,c1,new,Meta Ads,1290,24,2026-08-22
+l366,Lead 049,c1,booked,Referral,1693,71,2026-08-22
+l498,Lead 064,c4,contacted,Referral,2136,63,2026-08-22
+l181,Lead 025,c4,qualified,Meta Ads,909,94,2026-08-22
+l364,Lead 035,c3,closed,Meta Ads,497,79,2026-08-22
+l488,Lead 031,c2,new,Website form,1090,16,2026-08-22
+l289,Lead 047,c3,contacted,Website form,916,52,2026-08-21
+l385,Lead 020,c3,contacted,Referral,1162,67,2026-08-21
+l252,Lead 019,c2,new,Aged list,826,55,2026-08-21
+l203,Lead 061,c4,booked,Website form,2215,92,2026-08-21
+l167,Lead 004,c4,showed,Cold call,1216,72,2026-08-21
+l414,Lead 031,c4,qualified,Website form,2041,72,2026-08-21
+l562,Lead 062,c2,lost,Referral,768,26,2026-08-21
+l487,Lead 038,c1,new,SMS reactivation,372,21,2026-08-20
+l294,Lead 044,c3,booked,Google LSA,1360,70,2026-08-20
+l321,Lead 054,c1,contacted,Meta Ads,1830,29,2026-08-20
+l583,Lead 056,c1,qualified,Aged list,1666,61,2026-08-20
+l637,Lead 046,c4,contacted,Google LSA,519,65,2026-08-20
+l176,Lead 064,c1,contacted,Aged list,1426,33,2026-08-20
+l456,Lead 009,c2,new,SMS reactivation,497,44,2026-08-19
+l537,Lead 058,c3,showed,SMS reactivation,1361,81,2026-08-19
+l149,Lead 047,c2,lost,Google LSA,1892,43,2026-08-19
+l317,Lead 006,c3,lost,SMS reactivation,552,4,2026-08-19
+l396,Lead 037,c1,contacted,Meta Ads,1813,48,2026-08-19
+l560,Lead 040,c3,new,SMS reactivation,632,38,2026-08-18
+l288,Lead 056,c3,contacted,Referral,731,50,2026-08-18
+l464,Lead 037,c3,new,SMS reactivation,1345,34,2026-08-18
+l483,Lead 009,c1,contacted,Referral,764,53,2026-08-18
+l569,Lead 057,c2,contacted,Referral,1994,64,2026-08-18
+l618,Lead 014,c4,new,Aged list,1479,39,2026-08-18
+l229,Lead 058,c2,new,Referral,1046,23,2026-08-18
+l630,Lead 006,c3,contacted,Meta Ads,574,60,2026-08-17
+l13,Lead 016,c4,lost,Google LSA,1433,17,2026-08-17
+l443,Lead 004,c4,contacted,SMS reactivation,428,32,2026-08-17
+l359,Lead 030,c1,qualified,Website form,1744,66,2026-08-17
+l465,Lead 019,c2,new,Aged list,1150,38,2026-08-17
+l539,Lead 021,c4,qualified,Referral,1222,93,2026-08-17
+l574,Lead 026,c2,qualified,SMS reactivation,980,83,2026-08-16
+l312,Lead 007,c4,lost,Website form,1754,32,2026-08-16
+l245,Lead 025,c2,qualified,Website form,669,70,2026-08-16
+l484,Lead 024,c1,contacted,Aged list,1389,27,2026-08-16
+l398,Lead 034,c1,new,SMS reactivation,1277,27,2026-08-16
+l1,Lead 002,c1,showed,Google LSA,1152,76,2026-08-16
+l354,Lead 025,c2,qualified,Meta Ads,1044,76,2026-08-16
+l625,Lead 026,c4,booked,Aged list,869,70,2026-08-15
+l112,Lead 003,c4,qualified,SMS reactivation,1981,80,2026-08-15
+l368,Lead 032,c1,showed,Meta Ads,1036,97,2026-08-15
+l412,Lead 002,c4,new,SMS reactivation,1584,47,2026-08-14
+l592,Lead 012,c3,new,Website form,1209,20,2026-08-14
+l36,Lead 003,c3,new,Cold call,1016,45,2026-08-14
+l274,Lead 022,c1,closed,Meta Ads,1518,83,2026-08-14
+l336,Lead 030,c1,qualified,Google LSA,1244,88,2026-08-14
+l540,Lead 006,c1,lost,Cold call,1584,20,2026-08-14
+l254,Lead 016,c3,qualified,SMS reactivation,840,91,2026-08-14
+l428,Lead 020,c1,qualified,Referral,910,63,2026-08-14
+l345,Lead 009,c4,qualified,Website form,1338,90,2026-08-14
+l19,Lead 004,c2,qualified,Meta Ads,651,85,2026-08-14
+l216,Lead 018,c2,closed,Aged list,609,78,2026-08-14
+l521,Lead 044,c1,lost,Meta Ads,966,26,2026-08-14
+l255,Lead 062,c4,qualified,Aged list,571,66,2026-08-13
+l390,Lead 015,c2,qualified,Google LSA,1263,79,2026-08-13
+l510,Lead 060,c2,qualified,Meta Ads,2041,81,2026-08-13
+l71,Lead 060,c3,contacted,Aged list,1017,28,2026-08-12
+l360,Lead 011,c1,booked,Referral,551,64,2026-08-12
+l21,Lead 042,c4,contacted,Meta Ads,1806,68,2026-08-12
+l184,Lead 063,c1,new,Referral,1475,50,2026-08-12
+l501,Lead 057,c2,contacted,Meta Ads,1117,69,2026-08-12
+l600,Lead 006,c4,lost,SMS reactivation,1414,25,2026-08-12
+l77,Lead 048,c1,new,Cold call,862,20,2026-08-11
+l607,Lead 005,c4,qualified,Meta Ads,775,74,2026-08-11
+l318,Lead 050,c3,new,Website form,1418,57,2026-08-11
+l581,Lead 012,c2,new,Meta Ads,990,27,2026-08-11
+l42,Lead 011,c3,contacted,Meta Ads,1208,68,2026-08-11
+l315,Lead 022,c2,qualified,Cold call,1563,66,2026-08-11
+l302,Lead 054,c3,contacted,SMS reactivation,607,55,2026-08-11
+l7,Lead 041,c2,lost,Google LSA,1082,14,2026-08-11
+l566,Lead 028,c3,showed,Meta Ads,894,90,2026-08-11
+l322,Lead 022,c3,showed,Meta Ads,359,70,2026-08-11
+l110,Lead 056,c4,qualified,Google LSA,672,82,2026-08-11
+l458,Lead 040,c2,qualified,Website form,471,85,2026-08-10
+l425,Lead 060,c4,new,Aged list,1866,38,2026-08-10
+l6,Lead 024,c2,lost,Google LSA,494,8,2026-08-10
+l45,Lead 049,c2,new,SMS reactivation,609,26,2026-08-10
+l220,Lead 061,c4,booked,SMS reactivation,1872,67,2026-08-10
+l217,Lead 024,c4,qualified,Google LSA,1898,75,2026-08-10
+l611,Lead 030,c1,contacted,SMS reactivation,1817,60,2026-08-10
+l327,Lead 038,c2,new,Aged list,1948,33,2026-08-10
+l113,Lead 015,c4,new,Aged list,2169,49,2026-08-10
+l128,Lead 053,c2,lost,Aged list,607,4,2026-08-09
+l577,Lead 048,c2,lost,Meta Ads,685,41,2026-08-09
+l81,Lead 022,c4,contacted,SMS reactivation,693,43,2026-08-09
+l231,Lead 024,c1,lost,Aged list,1477,40,2026-08-09
+l394,Lead 045,c4,new,Cold call,1368,33,2026-08-09
+l69,Lead 050,c3,new,Aged list,398,48,2026-08-09
+l538,Lead 007,c2,lost,Website form,1484,11,2026-08-09
+l299,Lead 015,c3,new,Referral,920,39,2026-08-09
+l132,Lead 026,c3,contacted,Website form,1291,43,2026-08-09
+l286,Lead 019,c1,new,SMS reactivation,1823,42,2026-08-09
+l296,Lead 013,c2,new,SMS reactivation,891,47,2026-08-08
+l260,Lead 064,c3,booked,Aged list,1311,68,2026-08-08
+l218,Lead 042,c4,contacted,Website form,707,43,2026-08-08
+l144,Lead 021,c4,closed,SMS reactivation,1526,83,2026-08-08
+l635,Lead 049,c1,lost,Aged list,450,13,2026-08-08
+l55,Lead 034,c2,new,SMS reactivation,907,52,2026-08-08
+l265,Lead 055,c1,lost,Website form,1605,18,2026-08-08
+l549,Lead 021,c1,showed,Cold call,704,80,2026-08-08
