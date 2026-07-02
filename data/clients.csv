@@ -1,0 +1,6 @@
+id,name,vertical,status,flag,mrr,perappt,since,seats,csm,churnedon,churnreason
+c1,Example Heating One,HVAC,active,watch,3200,58,2026-02-09,2,Operator One,,
+c2,Example Heating Two,HVAC,active,expansion,4400,64,2026-01-26,2,Operator One,,
+c3,Example Climate Three,HVAC,active,,2800,52,2026-04-13,1,Operator Two,,
+c4,Example Air Four,HVAC,active,expansion,5100,71,2026-03-02,2,Operator Three,,
+c5,Example Mechanical,HVAC,churned,,3400,47,2026-02-16,0,Operator One,2026-07-04,Owner sold the business; the buyer had an in-house team
