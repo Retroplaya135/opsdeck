@@ -1,0 +1,15 @@
+﻿id,name,status,flag,mrr,perappt,since
+c1,"Terra Stream HVAC, Inc.",active,,"$8,400",85,2025-06-18
+c2,Northstar Home Services,ACTIVE,growth,"$12,600",90,2025-07-01
+c3,Harbor Dental,live,,7200,75,06/18/2025
+c4,"Vero ""Premier"" Dental",active,at risk,6400,70,2025-08-03
+c5,Juniper Wellness,active,,5100,65,46252
+c6,Bluebird Care,active,,n/a,60,2025-09-14
+c7,Cascade Repair,active,upsell,"(9,100)",95,2025-10-02
+c8,Ambiguous Date Co,active,,4000,55,03/04/2026
+c9,,active,,3000,50,2025-11-01
+c11,Invalid Money Co,active,,8400USD,80,2025-12-01
+c12,Invalid Date Co,active,,3200,45,not-a-date
+c13,Impossible Date Co,active,,3300,45,2026-02-30
+c1,Duplicate Identifier Co,active,,4100,50,2025-06-19
+
