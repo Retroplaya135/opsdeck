@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  checks:
+    name: Syntax, suites, database, security
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # No install step on purpose: the project has zero runtime and zero
+      # build dependencies. If this ever needs a package manager, that is a
+      # decision worth noticing in the diff rather than absorbing silently.
+      - name: Seed the database
+        run: python3 tools/load_csv.py --verify
+
+      - name: Run all checks
+        run: ./run-tests.sh
+
+  browser:
+    name: Browser suites
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Seed the database
+        run: python3 tools/load_csv.py
+
+      - name: Serve and run headless browser suites
+        run: |
+          python3 -m http.server 8499 --bind 127.0.0.1 &
+          sleep 2
+          # The engine and view suites set document.title to "✓ n/n" or
+          # "✗ n/n"; assert on that rather than scraping the page body.
+          node tools/run_browser_suites.mjs
+          CHROME_PATH=google-chrome node tools/check_a11y.mjs
